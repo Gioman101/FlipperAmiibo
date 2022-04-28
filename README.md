@@ -4,3 +4,6 @@ Made to be used with Flipper just unzip & drag the folder (Amiibo Database 2018 
 Best way to select through Amiibo's is using Flipper Browser (Down arrow press then goto NFC clicking right arrow)  
 
 https://www.youtube.com/watch?v=zRv7FZUCQng
+
+
+https://github.com/flipperdevices/flipperzero-firmware/pull/1179
