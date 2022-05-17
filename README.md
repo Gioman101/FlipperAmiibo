@@ -37,7 +37,7 @@ In the file system you are going to copy the Amiibo database into your NFC folde
 # From there you should be able to navigate to any Amiibo and emulate it correctly.
 ![alt text](https://forum.flipperzero.one/uploads/default/original/2X/b/bfde6381ed4c849b2d8cc1f1a7d18a175a22768e.png)
 
-# The following is are screenshots from AC of emulation from flipper.
+# The following are screenshots from AC of emulation from flipper.
 ![alt text](https://forum.flipperzero.one/uploads/default/original/2X/f/fe2bc00fac5d64d64125e07bdca45a19069955d3.jpeg)
 ![alt text](https://forum.flipperzero.one/uploads/default/original/2X/c/c93b0902ed73634bda8ab885385131b33d584143.jpeg)
 ![alt text](https://forum.flipperzero.one/uploads/default/original/2X/9/974fbf53c6039b4bce66f89096d4c1ed055203a8.png)
