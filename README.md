@@ -13,9 +13,10 @@ You will need a program to read .zip file like 7-Zip OR WinRAR to unzip the fold
 
 # Highly Recommend to transfer Folder on SD connected directly to PC 
 SD Card/nfc/
+
 However you can use qFlipper but it's very slow!!
 Open qFlipper and connect your flipper.
-*Please note that your flipper should already be updated to the latest version. When I was able to do this I was on version 0.58.1
+*Please note that your flipper should already be updated to the latest version. I'm on version 0.58.1-Unleashed
 
 In the file system you are going to copy the Amiibo database into your NFC folder. You can right click and choose “upload here…” or drag and drop it into the window. 
 
