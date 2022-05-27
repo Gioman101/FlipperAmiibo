@@ -1,0 +1,153 @@
+Filetype: Flipper NFC device
+Version: 2
+# Nfc device type can be UID, Mifare Ultralight, Bank card
+Device type: NTAG215
+# UID, ATQA and SAK are common for all formats
+UID: 04 CA E8 AE BA 47 4B
+ATQA: 44 00
+SAK: 00
+# Mifare Ultralight specific data
+Signature: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Mifare version: 00 04 04 02 01 00 11 03
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: 00
+Pages total: 135
+Page 0: 04 CA E8 AE
+Page 1: BA 47 4B 80
+Page 2: 36 48 0F E0
+Page 3: F1 10 FF EE
+Page 4: A5 00 00 00
+Page 5: E2 75 94 F7
+Page 6: 59 DF 15 10
+Page 7: 41 84 0F 64
+Page 8: 83 E3 AD F8
+Page 9: D9 1D D9 3C
+Page 10: F8 F7 D9 AE
+Page 11: 3A B1 4F 36
+Page 12: 3C C7 45 FA
+Page 13: 1F DB 5C CB
+Page 14: 95 95 18 F5
+Page 15: 42 AB DE 1F
+Page 16: B7 26 76 1C
+Page 17: 4E 2F 05 55
+Page 18: 3C 52 92 C8
+Page 19: F0 AF 5C 6F
+Page 20: B7 DC F1 4F
+Page 21: 03 A7 00 01
+Page 22: 01 A1 05 02
+Page 23: 33 35 30 32
+Page 24: 5D C8 DA 39
+Page 25: 00 9E 2A 63
+Page 26: C8 DA FE DE
+Page 27: 45 03 F9 3C
+Page 28: 44 2A 15 6F
+Page 29: B5 AD D4 A7
+Page 30: B6 4D 46 EC
+Page 31: 24 CB D1 3C
+Page 32: F2 FC 85 95
+Page 33: 16 0A 6D 0E
+Page 34: 4B 61 31 6A
+Page 35: F3 6F 08 08
+Page 36: 5D 9C 7D E0
+Page 37: 0F CB 64 2D
+Page 38: 91 A0 9A 27
+Page 39: C2 DD 11 AD
+Page 40: F4 5D 43 0E
+Page 41: C3 D1 DB E4
+Page 42: 31 47 CE 08
+Page 43: EC CB D2 BB
+Page 44: 60 C3 C2 4E
+Page 45: 1D 3E 4E CC
+Page 46: F8 C5 8E 9F
+Page 47: 45 0A 80 68
+Page 48: AC DC 13 3C
+Page 49: 7F 37 FD A8
+Page 50: 99 F8 27 2B
+Page 51: 33 95 50 CE
+Page 52: 26 17 BC 42
+Page 53: 98 5C 08 81
+Page 54: 27 BB 01 7E
+Page 55: 23 14 57 51
+Page 56: 5F 5E 71 EB
+Page 57: DE 05 42 EA
+Page 58: 64 B7 70 76
+Page 59: B0 A4 F9 D5
+Page 60: DC 80 8C 03
+Page 61: 39 BA C2 A3
+Page 62: 07 28 18 01
+Page 63: 62 13 C0 E6
+Page 64: E4 38 8E E2
+Page 65: 32 94 83 17
+Page 66: D6 87 07 70
+Page 67: 97 4A B4 1F
+Page 68: AD F9 23 12
+Page 69: B4 F2 B6 63
+Page 70: 1A B1 95 5D
+Page 71: C3 73 E5 76
+Page 72: 32 C7 C9 91
+Page 73: B9 79 4B ED
+Page 74: 31 97 B1 FC
+Page 75: 01 DE FA 59
+Page 76: FC F4 20 36
+Page 77: 8F EA 7F CD
+Page 78: C6 B1 68 46
+Page 79: F4 D1 D0 F1
+Page 80: C7 EA EE CF
+Page 81: EB 7D 88 A5
+Page 82: 6C 58 DD D6
+Page 83: 3E 8C 3B 46
+Page 84: 57 EA AA D0
+Page 85: 47 B9 F3 8C
+Page 86: 1B B4 16 6F
+Page 87: C8 93 D0 14
+Page 88: 9C 2A 5C DE
+Page 89: F1 E7 6C DC
+Page 90: 16 D9 A1 B4
+Page 91: 46 24 8C 4D
+Page 92: 3F 38 53 7E
+Page 93: 60 B3 22 4A
+Page 94: BC B7 D6 8E
+Page 95: 3F 4D 33 C2
+Page 96: F5 08 8F 09
+Page 97: 73 C8 6E CB
+Page 98: E8 CF 8C 63
+Page 99: 4B 26 01 81
+Page 100: 62 8A BB 09
+Page 101: B8 85 6C 2E
+Page 102: 17 7B CD 1D
+Page 103: EC 43 C2 29
+Page 104: 3D 8B 5D EF
+Page 105: FD 98 A7 39
+Page 106: 72 0D 1B D3
+Page 107: EC AC 49 07
+Page 108: 7C 5E 56 DE
+Page 109: 1D 02 3E ED
+Page 110: 6A 90 E5 87
+Page 111: B8 F5 5B 32
+Page 112: CE 0C 3C 60
+Page 113: C4 30 1E 5B
+Page 114: FB 35 00 98
+Page 115: 68 6F 00 86
+Page 116: D2 E2 9A 97
+Page 117: CD A9 16 E9
+Page 118: 73 94 34 33
+Page 119: 92 3D F0 41
+Page 120: E4 4E 13 A7
+Page 121: 19 41 7C 5F
+Page 122: 52 34 6D E7
+Page 123: 2E 84 D4 30
+Page 124: 15 88 F1 B1
+Page 125: 7A 9A 50 7D
+Page 126: 03 5D 94 CF
+Page 127: A9 C5 00 51
+Page 128: B5 76 EC E7
+Page 129: BC E7 0A 0E
+Page 130: 01 00 0F BD
+Page 131: 00 00 00 04
+Page 132: 5F 00 00 00
+Page 133: 00 00 00 00
+Page 134: 00 00 00 00
