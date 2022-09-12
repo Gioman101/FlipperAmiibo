@@ -15,7 +15,7 @@ Counter 1: 0
 Tearing 1: 00
 Counter 2: 0
 Tearing 2: 00
-Pages total: 143
+Pages total: 135
 Page 0: 04 C2 BC F2
 Page 1: 55 34 D7 72
 Page 2: C4 00 0F E0
@@ -151,11 +151,3 @@ Page 131: 00 00 00 04
 Page 132: 5F 00 00 00
 Page 133: 00 00 00 00
 Page 134: 00 00 00 00
-Page 135: D4 4D 89 35
-Page 136: 63 43 C5 74
-Page 137: DD A9 9E 20
-Page 138: 6B 22 AF F2
-Page 139: C4 F4 8A 1E
-Page 140: 5E 43 B8 97
-Page 141: 06 92 D9 97
-Page 142: 68 8F F1 DF
